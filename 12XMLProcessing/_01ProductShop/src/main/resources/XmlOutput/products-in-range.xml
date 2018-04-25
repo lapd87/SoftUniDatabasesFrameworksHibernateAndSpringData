@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product name="Extra Strength Pain Reliever PM" price="542.72" seller="Thomas Snyder"/>
+    <product name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12" seller="Betty Ward"/>
+    <product name="Topiramate" price="578.77" seller="Sandra Riley"/>
+    <product name="AIR" price="581.69" seller="Arthur Reynolds"/>
+    <product name="Glipizide" price="621.78" seller="Betty Lawson"/>
+    <product name="AMARANTHUS PALMERI POLLEN" price="623.16" seller="Arthur Reynolds"/>
+    <product name="AVANDAMET" price="632.08" seller="Nicole Martinez"/>
+    <product name="Meloxicam" price="809.18" seller="Jean Henry"/>
+    <product name="Azithromycin" price="813.87" seller="Wanda Harris"/>
+    <product name="RESCRIPTOR" price="850.52" seller="Moreno"/>
+    <product name="Ranitidine" price="926.64" seller="Sarah Day"/>
+    <product name="Homeopathic Rheumatism" price="967.08" seller="Gary Stevens"/>
+    <product name="Retin-A MICRO" price="995.98" seller="Christina Patterson"/>
+</products>

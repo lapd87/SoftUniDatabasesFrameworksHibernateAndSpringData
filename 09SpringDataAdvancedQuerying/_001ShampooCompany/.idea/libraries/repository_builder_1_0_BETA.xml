@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="repository-builder-1.0-BETA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repository-builder-1.0-BETA/repository-builder-1.0-BETA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

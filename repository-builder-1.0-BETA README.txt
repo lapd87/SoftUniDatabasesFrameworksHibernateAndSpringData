@@ -1,0 +1,20 @@
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Application {
+
+    public static void main(String[] args) {
+
+
+//error but creates files
+		    ANSRBuilder
+						.run(Strategy.REPOSITORIES_AND_SERVICES(),
+								Application.class, args);
+
+//after error to run					
+        SpringApplication.run(Application.class, args);
+    }
+}
+
+
